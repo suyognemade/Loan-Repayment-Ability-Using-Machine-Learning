@@ -1,6 +1,6 @@
-# Loan-Repayment-Ability-Using-Machine-Learning-DS-20-June
+# Loan-Repayment-Ability-Using-Machine-Learning
 . In our project, we use machine learning algorithms to study the correlations between borrower status and repayment ability.
-# TECHNOCOLABS  DATA ANALYSIS  INTERNSHIP PROJECT REPORT #  
+# TECHNOCOLABS  DATA ANALYSIS   #  
 
 _**TITLE:**_ 
   
